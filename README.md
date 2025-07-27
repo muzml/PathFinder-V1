@@ -75,7 +75,7 @@ Steps to recreate the model:
 
 ## 👀 Project Gallery
 
-![Pathfinder V1 Prototype](docs/images/1735728053423.jpg)
+![Pathfinder V1 Prototype](docs/1735728053423.jpg)
 
 Our prototype showcases the compact design of Pathfinder V1, utilizing the XIAO ESP32S3 as the main processing unit along with ultrasonic sensors for obstacle detection, and vibration motors and buzzer for providing feedback to the user.
 
